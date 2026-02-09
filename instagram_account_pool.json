@@ -1,0 +1,12 @@
+[
+  {
+    "username": "your_insta_username1",
+    "password": "your_password1",
+    "in_use": false
+  },
+  {
+    "username": "your_insta_username2",
+    "password": "your_password2",
+    "in_use": false
+  }
+]
